@@ -29,8 +29,9 @@ public class Main {
 //        Derived d = new Derived();
 //        System.out.println("Derived object value: " + d.value);
 
-        Dog myDog = new Dog("Buddy", "Frenchie");
+//        Dog myDog = new Dog("Buddy", "Frenchie");
 
+        new Child(); // This will print both messages: one from the Parent's constructor
 
     }
 }

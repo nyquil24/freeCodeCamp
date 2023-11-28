@@ -7,7 +7,9 @@
     <list default="true" id="aa17c90d-2a09-43f8-9ee5-e56ed93fa20f" name="Changes" comment="created superclass Base&#10;created subclass Derived">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Child.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />

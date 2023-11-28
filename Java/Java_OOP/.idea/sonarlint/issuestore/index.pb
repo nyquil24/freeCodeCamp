@@ -5,8 +5,6 @@ U
 %src/main/java/org/example/Cookie.java,4/a/4a360f69f9e8bc8fcc69e940fed69bccf6ddc2ad
 S
 #src/main/java/org/example/Base.java,7/b/7b0754590e56d0c019fa43f7ef903faa003caa51
-U
-%src/main/java/org/example/Animal.java,4/9/49dd4294a8dc5ca54b4d9bc28338790ecc17e291
 R
 "src/main/java/org/example/Dog.java,4/f/4f6d1d72f95c64544a577b775fdfc92ec95c0977
 V

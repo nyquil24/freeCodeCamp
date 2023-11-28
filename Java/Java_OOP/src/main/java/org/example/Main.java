@@ -31,7 +31,21 @@ public class Main {
 
 //        Dog myDog = new Dog("Buddy", "Frenchie");
 
-        new Child(); // This will print both messages: one from the Parent's constructor
+//        new Child(); // This will print both messages: one from the Parent's constructor
+
+//        Car car = new Car();
+//        car.description();
+
+        PaymentMethod p; // Referenc of type PaymentMethod
+
+        p = new CreditCard(); //p njow refers to a CreditCard ovject
+        p.pay(100.50);
+
+        p = new Paypal(); // p now refers to a PayPal object
+        p.pay(200.75); //calls PayPal's implementation of pay()
+
+
+
 
     }
 }

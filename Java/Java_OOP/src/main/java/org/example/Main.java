@@ -13,18 +13,23 @@ public class Main {
 //        chocolateHeartCookie.describe();
 //        vanillaHeartCookie.describe();
 
-        //Instantiating three different Person objects
-        Person person1 = new Person("Alice",25);
-        Person person2 = new Person("Ali",28);
-        Person person3 = new Person("Aline",30);
+//        //Instantiating three different Person objects
+//        Person person1 = new Person("Alice",25);
+//        Person person2 = new Person("Ali",28);
+//        Person person3 = new Person("Aline",30);
+//
+//        // Calling the speak() method for each Person object
+//
+//        person1.speak();
+//        person2.speak();
+//        person3.speak();
+//
+//        Person.displayCount();
 
-        // Calling the speak() method for each Person object
+//        Derived d = new Derived();
+//        System.out.println("Derived object value: " + d.value);
 
-        person1.speak();
-        person2.speak();
-        person3.speak();
-
-        Person.displayCount();
+        Dog myDog = new Dog("Buddy", "Frenchie");
 
 
     }

@@ -11,6 +11,10 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Child.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CreditCard.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/MainTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Rectangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Parent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PaymentMethod.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Paypal.java" afterDir="false" />
@@ -58,7 +62,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainTwo">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Java_OOP" />
@@ -72,8 +76,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Interface.MainTwo" />
+      <module name="Java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTwo" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

@@ -36,16 +36,17 @@ public class Main {
 //        Car car = new Car();
 //        car.description();
 
-        PaymentMethod p; // Referenc of type PaymentMethod
+//        PaymentMethod p; // Referenc of type PaymentMethod
+//
+//        p = new CreditCard(); //p njow refers to a CreditCard ovject
+//        p.pay(100.50);
+//
+//        p = new Paypal(); // p now refers to a PayPal object
+//        p.pay(200.75); //calls PayPal's implementation of pay()
 
-        p = new CreditCard(); //p njow refers to a CreditCard ovject
-        p.pay(100.50);
-
-        p = new Paypal(); // p now refers to a PayPal object
-        p.pay(200.75); //calls PayPal's implementation of pay()
-
-
+// Create instances of Circle and Rectangle
 
 
     }
+
 }

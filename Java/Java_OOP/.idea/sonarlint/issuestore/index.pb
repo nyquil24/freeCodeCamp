@@ -11,3 +11,17 @@ V
 &src/main/java/org/example/Derived.java,9/1/91d6f184c3d91b66f1f074a4a93ad49b1e31c7f2
 [
 +src/main/java/org/example/CookieCutter.java,3/1/3185075e2c85c5e4baa0d22aa8461f5548e362e7
+U
+%src/main/java/org/example/Parent.java,0/9/09525368bc43ea84e1a63405a92dda36ed6b3618
+T
+$src/main/java/org/example/Child.java,1/0/104a6a16ec29320eb1537c26076d15de2a599fb7
+V
+&src/main/java/org/example/Vehicle.java,e/3/e33d4fee6bac84eacf325992ccd718f041b88816
+R
+"src/main/java/org/example/Car.java,4/c/4c4147bab083793c016648b620b522cb001e5b5b
+U
+%src/main/java/org/example/Animal.java,4/9/49dd4294a8dc5ca54b4d9bc28338790ecc17e291
+\
+,src/main/java/org/example/PaymentMethod.java,5/e/5e279d1f59289c50a90b6abc59faa8bb74c5ec8c
+Y
+)src/main/java/org/example/CreditCard.java,d/4/d4d85776b9562429199e4c4187b8b614374faf04

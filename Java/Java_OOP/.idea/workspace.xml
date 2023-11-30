@@ -31,8 +31,11 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Flyable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/MainTwo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/ModifiableShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Oval.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Rectangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Square.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Swimmable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Walkable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />

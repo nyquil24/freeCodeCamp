@@ -23,12 +23,18 @@ public class MainTwo {
 //    rectangle.draw();
 
 
-        Robot robot = new Robot();
+//        Robot robot = new Robot();
+//
+//        // Demonstrate the robot's capabilities
+//
+//        robot.walk();
+//        robot.fly();
+//        robot.swim();
 
-        // Demonstrate the robot's capabilities
+        Shape oval = new Oval(5.0);
+        Shape rectangle = new Square(4.0, 6.0);
 
-        robot.walk();
-        robot.fly();
-        robot.swim();
+        System.out.println("Area of Circle: " + oval.calculateArea());
+        System.out.println("Area of Rectangle: " + rectangle.calculateArea());
     }
 }

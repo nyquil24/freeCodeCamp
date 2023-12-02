@@ -10,6 +10,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f02f3c95aefb0f1d16a0dd88826bafb7abcef2a0" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exceptions/ExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exceptions/RethrowingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exceptions/TryCatchExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Inheritence/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Inheritence/Base.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Inheritence/Car.java" afterDir="false" />
@@ -76,13 +79,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainTwo">
+  <component name="RunManager" selected="Application.RethrowingExample">
     <configuration name="MainTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Interface.MainTwo" />
       <module name="Java_OOP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RethrowingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Exceptions.RethrowingExample" />
+      <module name="Java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RethrowingExample" />
         <item itemvalue="Application.MainTwo" />
         <item itemvalue="Application.org.example.Main" />
       </list>

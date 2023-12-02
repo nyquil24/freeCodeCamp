@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa17c90d-2a09-43f8-9ee5-e56ed93fa20f" name="Changes" comment="created superclass Base&#10;created subclass Derived">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09525368bc43ea84e1a63405a92dda36ed6b3618" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e279d1f59289c50a90b6abc59faa8bb74c5ec8c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e33d4fee6bac84eacf325992ccd718f041b88816" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f02f3c95aefb0f1d16a0dd88826bafb7abcef2a0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/9/09525368bc43ea84e1a63405a92dda36ed6b3618" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/e/5e279d1f59289c50a90b6abc59faa8bb74c5ec8c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/3/e33d4fee6bac84eacf325992ccd718f041b88816" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f02f3c95aefb0f1d16a0dd88826bafb7abcef2a0" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Inheritence/Animal.java" afterDir="false" />

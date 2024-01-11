@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa17c90d-2a09-43f8-9ee5-e56ed93fa20f" name="Changes" comment="created superclass Base&#10;created subclass Derived" />
+    <list default="true" id="aa17c90d-2a09-43f8-9ee5-e56ed93fa20f" name="Changes" comment="created superclass Base&#10;created subclass Derived">
+      <change afterPath="$PROJECT_DIR$/src/main/java/amigos/javafunctional/imperative/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Classes/Level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Classes/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Cookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Classes/Cookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CookieCutter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Classes/CookieCutter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Classes/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Classes/Person.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>

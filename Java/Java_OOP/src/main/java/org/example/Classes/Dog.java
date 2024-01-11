@@ -1,9 +1,9 @@
-package org.example;
+package org.example.Classes;
 
 public class Dog {
 
-    private String name;
-    private int age;
+    public String name;
+    public int age;
 
     public Dog(String name, int age){
         this.name = name;
@@ -17,5 +17,9 @@ public class Dog {
     @Override
     public String toString() {
         return super.toString();
+    }
+
+    public int getAge(int i){
+        return this.age;
     }
 }

@@ -1,9 +1,9 @@
 package org.example;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+import org.example.Classes.Cat;
+import org.example.Classes.Dog;
+
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -64,14 +64,93 @@ public class Main {
 //        }
 //        System.out.println(m);
 
-    int[] x = {-99,5,6,3,2,1,7};
+//    int[] x = {-99,5,6,3,2,1,7};
+//
+//        Arrays.sort(x, 1, 7);
+//        for(int i : x){
+//            System.out.println(i + ",");
+//        }
+//        Dog tim = new Dog("tim", 4);
+//        tim.speak();
 
-        Arrays.sort(x, 1, 7);
-        for(int i : x){
-            System.out.println(i + ",");
-        }
+        /*
+        A Set is a colleciton of unordered elements that are unique,meaning that a Set
+        cannot contain the same element twice, and it doesn't know where that element exists
+         */
+        /*
+        The elements in a TreeSet are ordered ina tree data structure.
+         */
+//        Set<Integer> t = new TreeSet<>();
+//        t.add(5);
+//        t.add(7);
+//        t.add(5);
+//        t.add(9);
+//        t.add(-9);
+//
+//        boolean x = t.contains(5);
+//        System.out.println(x);
+//
+//        System.out.println(t);
+//
+//        t.remove(9);
+//        System.out.println(t);
+
+        /*
+        An ArrayList can change sizes,we can add things to it, and we can remove things form it
+         */
+//ArrayList<Integer> t = new ArrayList<Integer>();
+//
+//t.add(1);
+//t.add(2);
+//t.get(0);
+//        System.out.println(t);
+//t.set(1,5);
+//
+//        System.out.println(t);
+
+
+/*
+Maps use a key:value pair
+
+3 different types of maps: hashmaps, tree maps, and linked hashmaps
+ */
+
+        Map m = new HashMap();
+//        m.put("tim", 5);
+//        m.put("joe","x");
+//        m.put(11,999);
+//
+//        System.out.println(m);
+//
+//        String str = "hello my name is tim and i am cool";
+//
+//        for(char x:str.toCharArray()){
+//            if (m.containsKey(x)){
+//                int old = (int) m.get(x);
+//                m.put(x, old+1);
+//            } else{
+//                m.put(x,1);
+//            }
+//        }
+
+//        int[] x = {-99, 5, 6, 3, 2, 1, 7, 8, 0};
+//
+//        Arrays.sort(x, 3,6);
+//
+//        for(int i:x){
+//            System.out.print(i + ",");
+//        }
+
+
         Dog tim = new Dog("tim", 4);
         tim.speak();
+
+        tim.getAge(10);
+        tim.speak();
+
+        Cat timothy = new Cat("timothy", 18, 100);
+        timothy.speak();
+
     }
 
 }
